@@ -1,2 +1,0 @@
-# GoldKeyWebPage
-Official WebPage
